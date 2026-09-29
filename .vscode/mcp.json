@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "power-platform-governance": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/dist/index.js"]
+    }
+  }
+}

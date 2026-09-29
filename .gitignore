@@ -1,0 +1,9 @@
+node_modules/
+/dist/
+# Microsoft's docs are downloaded by `npm run fetch-corpus`, not committed
+/corpus/
+# Built by `npm run build-index`
+/data/
+coverage/
+*.log
+.env
